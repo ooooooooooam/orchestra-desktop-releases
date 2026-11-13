@@ -9,7 +9,7 @@ Autonomous DJ software. Chat with the AI DJ and watch its cursor work the decks 
 | macOS, Apple Silicon (M1 and later) | [Orchestra_aarch64.dmg](https://github.com/ooooooooooam/orchestra-desktop-releases/releases/latest/download/Orchestra_aarch64.dmg) |
 | macOS, Intel | [Orchestra_x64.dmg](https://github.com/ooooooooooam/orchestra-desktop-releases/releases/latest/download/Orchestra_x64.dmg) |
 | Windows 10/11 (installer) | [Orchestra_x64-setup.exe](https://github.com/ooooooooooam/orchestra-desktop-releases/releases/latest/download/Orchestra_x64-setup.exe) |
-| Windows 10/11 (MSI) | [Orchestra_x64_en-US.msi](https://github.com/ooooooooooam/orchestra-desktop-releases/releases/latest/download/Orchestra_x64_en-US.msi) |
+| Windows 10/11 (MSI) | [Orchestra_x64.msi](https://github.com/ooooooooooam/orchestra-desktop-releases/releases/latest/download/Orchestra_x64.msi) |
 | Linux (AppImage) | [Orchestra_amd64.AppImage](https://github.com/ooooooooooam/orchestra-desktop-releases/releases/latest/download/Orchestra_amd64.AppImage) |
 | Linux (Debian/Ubuntu) | [Orchestra_amd64.deb](https://github.com/ooooooooooam/orchestra-desktop-releases/releases/latest/download/Orchestra_amd64.deb) |
 | Linux (Fedora/RHEL) | [Orchestra_x86_64.rpm](https://github.com/ooooooooooam/orchestra-desktop-releases/releases/latest/download/Orchestra_x86_64.rpm) |
